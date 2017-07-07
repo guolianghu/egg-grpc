@@ -1,0 +1,26 @@
+{
+  "name": "egg-grpc-server",
+  "version": "1.0.0",
+  "description": "egg grpc server plugin",
+  "main": "index.js",
+  "eggPlugin": {
+    "name": "grpc-server"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.eju-inc.com:kupai-open/egg-grpc-server.git"
+  },
+  "keywords": [
+    "egg",
+    "plugin",
+    "grpc-server"
+  ],
+  "author": "huguoliang@ehousechina.com",
+  "license": "ISC",
+  "dependencies": {
+    "grpc": "^1.4.1"
+  }
+}
