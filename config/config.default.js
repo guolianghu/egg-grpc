@@ -3,7 +3,7 @@
  */
 
 module.exports = {
-  grpc_server : {
+  "grpc-server" : {
     bind: '0.0.0.0:50051',
   }
 };
